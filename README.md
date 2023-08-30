@@ -10,3 +10,5 @@ The chatgpt API key is a secure access token that allows us to interact with Ope
 With Streamlit, we can design a user interface that allows users to input messages or questions and receive real-time responses from our chatbot powered by GPT-3. This combination of Streamlit and the chatgpt API key enables us to demonstrate the functionality and potential of our personalized chatbot in an interactive and intuitive way.
 
 By showcasing this POC, we can effectively present the capabilities and benefits of our personalized chatbot solution to stakeholders, clients, or users.
+
+To know more about Streamlit, follow the link: https://docs.streamlit.io/knowledge-base/tutorials/build-conversational-apps#build-a-chatgpt-like-app
